@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 public class Day7Test5 {
     WebDriver driver;
     //In Test1 we have to verify that the page is loaded successfully
-    @Test(priority = 1)
+    @Test
     public void testcase1() throws InterruptedException {
         //Enter user name
         WebElement user_id = driver.findElement(By.xpath("//*[@id=\"app\"]/div[1]/div/div[1]/div/div[2]/div[2]/form/div[1]/div/div[2]/input"));
@@ -35,7 +35,7 @@ public class Day7Test5 {
         System.out.println("testcase1 successfull!!!");
     }
     //In Test2 we are going to check whether the page is logout successfully
-    @Test(priority = 2)
+    @Test(dependsOnMethods = "testcase1")
     public void testcase2() throws InterruptedException {
 
         //click dropdown

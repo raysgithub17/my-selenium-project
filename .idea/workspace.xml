@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a2c86db-2e9f-4bda-9bdf-a5e5f16269a2" name="Changes" comment="day2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day4Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day4Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day5Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day5Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day5Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day5Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day5Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day7Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day7Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day7Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day7Test4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day4Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day4Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day4Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day4Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day4Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day4Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day4Test4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,56 +46,157 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.splitter.proportion": "0.24541752"
   }
-}</component>
-  <component name="RunManager" selected="Application.Day5Test3">
-    <configuration name="Day4Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4Test4" />
+}]]></component>
+  <component name="RunManager" selected="TestNG.Day7Test4">
+    <configuration name="Day7Test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="my-selenium-project" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Day7Test1" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day5Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5Test1" />
+    <configuration name="Day7Test2 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="my-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Day7Test2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day5Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5Test2" />
+    <configuration name="Day7Test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="my-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Day7Test2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day5Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5Test3" />
+    <configuration name="Day7Test3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="my-selenium-project" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Day7Test3" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day5Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5Test4" />
+    <configuration name="Day7Test4" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="my-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Day7Test4" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test ng run" type="TestNG">
+      <module name="my-selenium-project" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Day7Test1" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.test ng run" />
+      <item itemvalue="TestNG.Day7Test4" />
+      <item itemvalue="TestNG.Day7Test2" />
+      <item itemvalue="TestNG.Day7Test2 (1)" />
+      <item itemvalue="TestNG.Day7Test3" />
+      <item itemvalue="TestNG.Day7Test1" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day5Test3" />
-        <item itemvalue="Application.Day5Test4" />
-        <item itemvalue="Application.Day5Test1" />
-        <item itemvalue="Application.Day5Test2" />
-        <item itemvalue="Application.Day4Test4" />
+        <item itemvalue="TestNG.Day7Test4" />
+        <item itemvalue="TestNG.Day7Test3" />
+        <item itemvalue="TestNG.Day7Test2 (1)" />
+        <item itemvalue="TestNG.Day7Test2" />
+        <item itemvalue="TestNG.Day7Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +209,40 @@
       <option name="presentableId" value="Default" />
       <updated>1682417312837</updated>
     </task>
+    <task id="LOCAL-00001" summary="day2">
+      <created>1682500380205</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682500380205</updated>
+    </task>
+    <task id="LOCAL-00002" summary="day2">
+      <created>1682500412690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682500412690</updated>
+    </task>
+    <task id="LOCAL-00003" summary="day2">
+      <created>1682502515099</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682502515099</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day2" />

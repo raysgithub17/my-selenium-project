@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/raysmacbook/Documents/my-selenium-project/src/test/java/org/example/Day7Test3.java"><classes><class name="org.example.Day7Test3"><methods><include name="add"/><include name="sub"/><include name="mul"/><include name="div"/></methods></class></classes></test></suite>

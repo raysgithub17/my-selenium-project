@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a2c86db-2e9f-4bda-9bdf-a5e5f16269a2" name="Changes" comment="day2">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day7Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day7Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day7Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day7Test4.java" afterDir="false" />
+    <list default="true" id="1a2c86db-2e9f-4bda-9bdf-a5e5f16269a2" name="Changes" comment="day3">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day7Test5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Day7Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Day7Test4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,34 +52,7 @@
     "settings.editor.splitter.proportion": "0.24541752"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.Day7Test4">
-    <configuration name="Day7Test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="my-selenium-project" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Day7Test1" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Day7Test5">
     <configuration name="Day7Test2 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="my-selenium-project" />
       <extension name="coverage">
@@ -161,6 +131,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day7Test5" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="my-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Day7Test5" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test ng run" type="TestNG">
       <module name="my-selenium-project" />
       <shortenClasspath name="NONE" />
@@ -185,18 +172,18 @@
     <list>
       <item itemvalue="TestNG.test ng run" />
       <item itemvalue="TestNG.Day7Test4" />
+      <item itemvalue="TestNG.Day7Test5" />
       <item itemvalue="TestNG.Day7Test2" />
       <item itemvalue="TestNG.Day7Test2 (1)" />
       <item itemvalue="TestNG.Day7Test3" />
-      <item itemvalue="TestNG.Day7Test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Day7Test5" />
         <item itemvalue="TestNG.Day7Test4" />
         <item itemvalue="TestNG.Day7Test3" />
         <item itemvalue="TestNG.Day7Test2 (1)" />
         <item itemvalue="TestNG.Day7Test2" />
-        <item itemvalue="TestNG.Day7Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682502515099</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day3">
+      <created>1682577240950</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682577240950</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +240,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day2" />
-    <option name="LAST_COMMIT_MESSAGE" value="day2" />
+    <MESSAGE value="day3" />
+    <option name="LAST_COMMIT_MESSAGE" value="day3" />
   </component>
 </project>

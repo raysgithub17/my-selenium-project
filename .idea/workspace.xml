@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a2c86db-2e9f-4bda-9bdf-a5e5f16269a2" name="Changes" comment="day3">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day7Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day7Test6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day9Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day9Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day9Test2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day9Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day9Test5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Cia1Que1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Cia1Que2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day10Test123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Day10Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Excel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +56,34 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.24541752&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG./Users/raysmacbook/Documents/my-selenium-project/src/test/java/org/example/Day9Test5.xml">
-    <configuration name="Day9Test1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Cia1Que2">
+    <configuration name="Cia1Que1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Cia1Que1" />
+      <module name="my-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cia1Que2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Cia1Que2" />
+      <module name="my-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day10Test123" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="my-selenium-project" />
       <extension name="coverage">
         <pattern>
@@ -70,7 +92,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Day9Test1" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Day10Test123" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -78,20 +100,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/raysmacbook/Documents/my-selenium-project/src/test/java/org/example/Day7Test6.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day10Test4" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="my-selenium-project" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/org/example/Day7Test6.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/raysmacbook/Documents/my-selenium-project/src/test/java/org/example/Day9Test2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="my-selenium-project" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/org/example/Day9Test2.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Day10Test4" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -101,16 +120,6 @@
     <configuration name="/Users/raysmacbook/Documents/my-selenium-project/src/test/java/org/example/Day9Test5.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="my-selenium-project" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/org/example/Day9Test5.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/raysmacbook/Documents/my-selenium-project/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="my-selenium-project" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -140,20 +149,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Cia1Que1" />
+      <item itemvalue="Application.Cia1Que2" />
       <item itemvalue="TestNG.test ng run" />
-      <item itemvalue="TestNG./Users/raysmacbook/Documents/my-selenium-project/src/test/java/org/example/Day9Test2.xml" />
+      <item itemvalue="TestNG.Day10Test123" />
       <item itemvalue="TestNG./Users/raysmacbook/Documents/my-selenium-project/src/test/java/org/example/Day9Test5.xml" />
-      <item itemvalue="TestNG.Day9Test1" />
-      <item itemvalue="TestNG./Users/raysmacbook/Documents/my-selenium-project/src/test/java/org/example/Day7Test6.xml" />
-      <item itemvalue="TestNG./Users/raysmacbook/Documents/my-selenium-project/testng.xml" />
+      <item itemvalue="TestNG.Day10Test4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cia1Que2" />
+        <item itemvalue="Application.Cia1Que1" />
+        <item itemvalue="TestNG.Day10Test123" />
+        <item itemvalue="TestNG.Day10Test4" />
         <item itemvalue="TestNG./Users/raysmacbook/Documents/my-selenium-project/src/test/java/org/example/Day9Test5.xml" />
-        <item itemvalue="TestNG./Users/raysmacbook/Documents/my-selenium-project/src/test/java/org/example/Day9Test2.xml" />
-        <item itemvalue="TestNG.Day9Test1" />
-        <item itemvalue="TestNG./Users/raysmacbook/Documents/my-selenium-project/src/test/java/org/example/Day7Test6.xml" />
-        <item itemvalue="TestNG./Users/raysmacbook/Documents/my-selenium-project/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682584522516</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="day3">
+      <created>1683017995289</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683017995289</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

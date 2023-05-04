@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a2c86db-2e9f-4bda-9bdf-a5e5f16269a2" name="Changes" comment="day3">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/summa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Cia1Que1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Cia1Que2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Cia1Que2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Cia1Que2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.24541752&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.summa">
+  <component name="RunManager" selected="Application.Cia1Que1">
     <configuration name="Cia1Que1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Cia1Que1" />
       <module name="my-selenium-project" />
@@ -79,6 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day4Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4Test2" />
+      <module name="my-selenium-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="summa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.summa" />
       <module name="my-selenium-project" />
@@ -92,7 +99,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day10Test123" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day7Test1.f" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="my-selenium-project" />
       <extension name="coverage">
         <pattern>
@@ -101,25 +108,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Day10Test123" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day10Test4" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="my-selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Day10Test4" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Day7Test1" />
+      <option name="METHOD_NAME" value="f" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -148,20 +139,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Cia1Que1" />
       <item itemvalue="Application.Cia1Que2" />
+      <item itemvalue="Application.Day4Test2" />
+      <item itemvalue="Application.Cia1Que1" />
       <item itemvalue="Application.summa" />
       <item itemvalue="TestNG.test ng run" />
-      <item itemvalue="TestNG.Day10Test123" />
-      <item itemvalue="TestNG.Day10Test4" />
+      <item itemvalue="TestNG.Day7Test1.f" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.summa" />
-        <item itemvalue="Application.Cia1Que2" />
         <item itemvalue="Application.Cia1Que1" />
-        <item itemvalue="TestNG.Day10Test123" />
-        <item itemvalue="TestNG.Day10Test4" />
+        <item itemvalue="Application.Cia1Que2" />
+        <item itemvalue="Application.Day4Test2" />
+        <item itemvalue="TestNG.Day7Test1.f" />
+        <item itemvalue="Application.summa" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683111625672</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="day3">
+      <created>1683174209696</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683174209696</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

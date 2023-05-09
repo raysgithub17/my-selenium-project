@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a2c86db-2e9f-4bda-9bdf-a5e5f16269a2" name="Changes" comment="day3">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Cia1Que1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Cia1Que2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -235,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683174209696</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="day3">
+      <created>1683198618446</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683198618446</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
